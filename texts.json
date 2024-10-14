@@ -1,0 +1,31 @@
+{
+  "header": {
+    "title": "No es real",
+    "subtitle": "Proyectos de Realidad Aumentada",
+    "description": "Explorando el futuro de la interacción digital a través de experiencias inmersivas y tecnología de vanguardia."
+  },
+  "projects": [
+    {
+      "title": "RealityPlus",
+      "description": "Prueba de concepto para Apple Vision Pro",
+      "content": "Ofrecemos una prueba de concepto completa para Apple Vision Pro en tan solo un mes.",
+      "linkText": "Visitar RealityPlus",
+      "linkUrl": "https://realityplus.es"
+    },
+    {
+      "title": "Las gafas de la risa",
+      "description": "Experiencias de RA para eventos",
+      "content": "Ofrecemos experiencias con gafas de realidad aumentada en tu evento, con asistencia técnica incluida.",
+      "linkText": "Descubre Las gafas de la risa",
+      "linkUrl": "https://lasgafasdelarisa.com"
+    },
+    {
+      "title": "Esto no es real",
+      "description": "Blog de realidad aumentada con humor",
+      "content": "Explora nuestro blog de realidad aumentada con un toque de humor y perspectivas únicas.",
+      "linkText": "Leer el blog",
+      "linkUrl": "https://realityplus.substack.com"
+    }
+  ]
+}
+
